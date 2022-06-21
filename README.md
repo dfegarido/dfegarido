@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://dfegarido.github.io/my-site](https://dfegarido.github.io/my-site)
+- 👨‍💻 All of my projects are available at [Darwin Fegarido site](https://darwin-fegarido.herokuapp.com/)
 
 - 💬 Ask me about **ReactJS, NodeJs, Python**
 
